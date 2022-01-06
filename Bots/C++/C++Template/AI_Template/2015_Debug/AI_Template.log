@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\cuong\Downloads\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(89,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cuong\Downloads\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(111,19): warning C4018: '<': signed/unsigned mismatch
+  AI_Template.vcxproj -> C:\Users\cuong\Downloads\Pack\Bots\C++\C++Template\2015_Debug\AI_Template.exe
